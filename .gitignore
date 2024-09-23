@@ -1,0 +1,6 @@
+node_modules
+*.json
+jest.config.js
+main.test.ts
+webpack.config.js
+.eslintrc.js
